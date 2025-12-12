@@ -49,7 +49,7 @@ Reimagining Smart ID not only as identity, but as a **portable medical vault**.
 
 ## 🛠️ Technical Stack
 
-![Alt Text](image-path-or-url)
+![Alt Text](asset/techstack.jpg)
 
 ---
 
