@@ -49,12 +49,7 @@ Reimagining Smart ID not only as identity, but as a **portable medical vault**.
 
 ## 🛠️ Technical Stack
 
-### **MVP (Roadmap)**
-
-- **Identity:** `react-native-nfc-manager` for MyKad NFC reading  
-- **Backend:** Node.js + PostgreSQL (Malaysia Data Residency)  
-- **Security:** AES-256 for local storage, TLS 1.3 for sync  
-- **Sync:** WatermelonDB (Offline-First replication)
+![Alt Text](image-path-or-url)
 
 ---
 
