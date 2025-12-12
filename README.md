@@ -1,4 +1,4 @@
-# 🛡️ The Lifeline: MedicMADANI
+# ![Logo](assets/medicMADANI.png) The Lifeline: MedicMADANI
 *A submission for the GODAM / Lah!2.0 Smart ID Hackathon.*
 Secure, tiered access to critical health data when it matters most.
 
